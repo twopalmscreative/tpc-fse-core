@@ -5,7 +5,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Registers custom block pattern for the FSE Starter theme.

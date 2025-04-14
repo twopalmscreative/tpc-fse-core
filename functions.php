@@ -9,11 +9,11 @@
  * @license GNU General Public License v3
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 // Define a global path and url.
-define( 'twopalmscreative\verve\ROOT_PATH', trailingslashit( get_template_directory() ) );
-define( 'twopalmscreative\verve\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
+define( 'twopalmscreative\fse_starter\ROOT_PATH', trailingslashit( get_template_directory() ) );
+define( 'twopalmscreative\fse_starter\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
 
 /**
  * Get all the include files for the theme.

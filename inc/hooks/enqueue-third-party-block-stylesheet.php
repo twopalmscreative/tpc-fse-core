@@ -9,7 +9,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Enqueue third‑party block override styles.

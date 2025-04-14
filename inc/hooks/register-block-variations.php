@@ -5,7 +5,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Register block variations.

@@ -7,7 +7,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Adds a custom query variable to indicate whether sticky posts should be ignored.

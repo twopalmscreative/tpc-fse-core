@@ -76,7 +76,7 @@
 		 Multiple valid prefixes can be provided as a comma-delimited list. -->
 	<rule ref="WordPress.NamingConventions.PrefixAllGlobals">
 		<properties>
-			<property name="prefixes" type="array" value="twopalmscreative\verve,wds,verve" />
+			<property name="prefixes" type="array" value="twopalmscreative\fse_starter,wds,verve" />
 		</properties>
 	</rule>
 

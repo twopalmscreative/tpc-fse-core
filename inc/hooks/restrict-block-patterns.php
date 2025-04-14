@@ -5,7 +5,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Restrict patterns from the Dotcom library by overriding the patterns source site.

@@ -9,7 +9,7 @@
  * @package fse_starter
  */
 
-namespace twopalmscreative\verve;
+namespace twopalmscreative\fse_starter;
 
 /**
  * Outputs the "Back to Top" button HTML, JavaScript, and CSS.
