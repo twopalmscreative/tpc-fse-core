@@ -1,6 +1,6 @@
 <?php
 /**
- * Registers custom block pattern categories for the WDS BT theme.
+ * Registers custom block pattern categories for the FSE Starter theme.
  *
  * @package fse_starter
  */
@@ -8,7 +8,7 @@
 namespace twopalmscreative\verve;
 
 /**
- * Registers custom block pattern for the WDS BT theme.
+ * Registers custom block pattern for the FSE Starter theme.
  */
 function register_custom_block_pattern() {
 

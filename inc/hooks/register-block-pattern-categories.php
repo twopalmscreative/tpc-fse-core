@@ -1,6 +1,6 @@
 <?php
 /**
- * Registers custom block pattern categories for the WDS BT theme.
+ * Registers custom block pattern categories for the FSE Starter theme.
  *
  * @package fse_starter
  */
@@ -8,7 +8,7 @@
 namespace twopalmscreative\verve;
 
 /**
- * Registers custom block pattern categories for the WDS BT theme.
+ * Registers custom block pattern categories for the FSE Starter theme.
  */
 function register_custom_block_pattern_categories() {
 
@@ -16,28 +16,28 @@ function register_custom_block_pattern_categories() {
 		'content',
 		array(
 			'label'       => __( 'Content', 'verve' ),
-			'description' => __( 'A collection of content patterns designed for WDS BT.', 'verve' ),
+			'description' => __( 'A collection of content patterns designed for FSE Starter.', 'verve' ),
 		)
 	);
 	register_block_pattern_category(
 		'hero',
 		array(
 			'label'       => __( 'Hero', 'verve' ),
-			'description' => __( 'A collection of hero patterns designed for WDS BT.', 'verve' ),
+			'description' => __( 'A collection of hero patterns designed for FSE Starter.', 'verve' ),
 		)
 	);
 	register_block_pattern_category(
 		'page',
 		array(
 			'label'       => __( 'Pages', 'verve' ),
-			'description' => __( 'A collection of page patterns designed for WDS BT.', 'verve' ),
+			'description' => __( 'A collection of page patterns designed for FSE Starter.', 'verve' ),
 		)
 	);
 	register_block_pattern_category(
 		'template',
 		array(
 			'label'       => __( 'Templates', 'verve' ),
-			'description' => __( 'A collection of template patterns designed for WDS BT.', 'verve' ),
+			'description' => __( 'A collection of template patterns designed for FSE Starter.', 'verve' ),
 		)
 	);
 
