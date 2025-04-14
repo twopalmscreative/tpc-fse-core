@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package verve
+ * @package fse_starter
  * @author  twopalmscreative
  * @license GNU General Public License v3
  */

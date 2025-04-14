@@ -6,7 +6,7 @@
  * Block Types: custom/primary-category
  * Inserter: false
  *
- * @package verve
+ * @package fse_starter
  */
 
 $wdsbt_category = get_the_category();

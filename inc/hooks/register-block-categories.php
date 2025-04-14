@@ -2,7 +2,7 @@
 /**
  * Register custom block category(ies).
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

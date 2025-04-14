@@ -5,7 +5,7 @@
  * Categories: header
  * Block Types: core/template-part/header
  *
- * @package verve
+ * @package fse_starter
  */
 
 // Determine whether to display site logo or site title.

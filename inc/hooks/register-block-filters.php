@@ -2,7 +2,7 @@
 /**
  * Functions to enqueue scripts in the block editor and frontend.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

@@ -6,7 +6,7 @@
  * name is the block name without its namespace. For example, for a block "verve/jctest",
  * the function will look for "jctest.css" in the build/css/blocks folder.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

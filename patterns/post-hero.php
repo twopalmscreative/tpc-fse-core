@@ -6,7 +6,7 @@
  * Template Types: single-post
  * Block Types: custom/post-hero
  *
- * @package verve
+ * @package fse_starter
  */
 
 ?>

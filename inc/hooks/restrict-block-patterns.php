@@ -2,7 +2,7 @@
 /**
  * Restrict block patterns to theme-specific patterns only.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

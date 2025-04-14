@@ -4,7 +4,7 @@
  *
  * Override WP Query to respect perPage count even with sticky posts.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

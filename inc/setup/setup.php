@@ -2,7 +2,7 @@
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

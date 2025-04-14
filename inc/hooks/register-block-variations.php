@@ -2,7 +2,7 @@
 /**
  * Register custom block styles.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

@@ -2,7 +2,7 @@
 /**
  * Enqueue scripts and styles.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

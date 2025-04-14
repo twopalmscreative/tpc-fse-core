@@ -6,7 +6,7 @@
  * Block Types: custom/comments
  * Inserter: false
  *
- * @package verve
+ * @package fse_starter
  */
 
 ?>

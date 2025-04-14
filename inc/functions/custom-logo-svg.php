@@ -8,7 +8,7 @@
  *
  * Additionally, this file includes functionality to allow SVG uploads in WordPress.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

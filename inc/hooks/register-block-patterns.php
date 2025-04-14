@@ -2,7 +2,7 @@
 /**
  * Registers custom block pattern categories for the WDS BT theme.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

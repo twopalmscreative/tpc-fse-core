@@ -5,7 +5,7 @@
  * Categories: footer
  * Block Types: core/template-part/footer
  *
- * @package verve
+ * @package fse_starter
  */
 
 // Determine whether to display site logo or site title.

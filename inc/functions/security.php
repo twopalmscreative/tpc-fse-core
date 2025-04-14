@@ -4,7 +4,7 @@
  *
  * Enable or disable certain functionality to harden WordPress.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;

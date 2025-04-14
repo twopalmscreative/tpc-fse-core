@@ -6,7 +6,7 @@
  * scrolls down the page. Includes vanilla JavaScript for smooth scrolling and
  * visibility toggling, and basic CSS styling for positioning and appearance.
  *
- * @package verve
+ * @package fse_starter
  */
 
 namespace twopalmscreative\verve;
