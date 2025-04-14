@@ -8,10 +8,10 @@
  *
  * Additionally, this file includes functionality to allow SVG uploads in WordPress.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Enable SVG uploads in WordPress.

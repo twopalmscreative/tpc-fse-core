@@ -1,11 +1,11 @@
 <?php
 /**
  * Title: Default header
- * Slug: wdsbt/header
+ * Slug: verve/header
  * Categories: header
  * Block Types: core/template-part/header
  *
- * @package wdsbt
+ * @package verve
  */
 
 // Determine whether to display site logo or site title.

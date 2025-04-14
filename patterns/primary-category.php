@@ -1,12 +1,12 @@
 <?php
 /**
  * Title: Primary Category
- * Slug: wdsbt/primary-category
+ * Slug: verve/primary-category
  * Categories: posts
  * Block Types: custom/primary-category
  * Inserter: false
  *
- * @package wdsbt
+ * @package verve
  */
 
 $wdsbt_category = get_the_category();

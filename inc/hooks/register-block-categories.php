@@ -2,10 +2,10 @@
 /**
  * Register custom block category(ies).
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Register_wds_category
@@ -16,8 +16,8 @@ namespace twopalmscreative\wdsbt;
  */
 function register_wds_category( $categories ) {
 	$custom_block_category = [
-		'slug'  => __( 'wds-blocks-category', 'wdsbt' ),
-		'title' => __( 'WDS Blocks', 'wdsbt' ),
+		'slug'  => __( 'wds-blocks-category', 'verve' ),
+		'title' => __( 'WDS Blocks', 'verve' ),
 	];
 
 	$categories_sorted    = [];

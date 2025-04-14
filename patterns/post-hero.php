@@ -1,12 +1,12 @@
 <?php
 /**
  * Title: Single Post Hero
- * Slug: wdsbt/post-hero
+ * Slug: verve/post-hero
  * Categories: posts
  * Template Types: single-post
  * Block Types: custom/post-hero
  *
- * @package wdsbt
+ * @package verve
  */
 
 ?>

@@ -4,16 +4,16 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package wdsbt
+ * @package verve
  * @author  twopalmscreative
  * @license GNU General Public License v3
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 // Define a global path and url.
-define( 'twopalmscreative\wdsbt\ROOT_PATH', trailingslashit( get_template_directory() ) );
-define( 'twopalmscreative\wdsbt\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
+define( 'twopalmscreative\verve\ROOT_PATH', trailingslashit( get_template_directory() ) );
+define( 'twopalmscreative\verve\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
 
 /**
  * Get all the include files for the theme.

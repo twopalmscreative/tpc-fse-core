@@ -6,10 +6,10 @@
  * scrolls down the page. Includes vanilla JavaScript for smooth scrolling and
  * visibility toggling, and basic CSS styling for positioning and appearance.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Outputs the "Back to Top" button HTML, JavaScript, and CSS.

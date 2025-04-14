@@ -3,10 +3,10 @@
  * Register custom block styles.
  * Learn More: https://developer.wordpress.org/reference/functions/register_block_style/
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Register block styles.
@@ -15,11 +15,11 @@ function register_block_styles() {
 
 	$block_styles = array(
 		'core/button' => array(
-			'minimal' => __( 'Minimal', 'wdsbt' ),
-			'text'    => __( 'Text Only', 'wdsbt' ),
+			'minimal' => __( 'Minimal', 'verve' ),
+			'text'    => __( 'Text Only', 'verve' ),
 		),
 		'core/quote'  => array(
-			'large' => __( 'Large', 'wdsbt' ),
+			'large' => __( 'Large', 'verve' ),
 		),
 	);
 

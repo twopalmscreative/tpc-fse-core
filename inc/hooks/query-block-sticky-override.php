@@ -4,10 +4,10 @@
  *
  * Override WP Query to respect perPage count even with sticky posts.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Adds a custom query variable to indicate whether sticky posts should be ignored.

@@ -61,23 +61,23 @@ async function run() {
 	// Auto-detect the site URL via WordPress REST API if not provided
 	if (!url) {
 		try {
-			const wpResponse = await fetch('https://wdsbt.local/wp-json', {
+			const wpResponse = await fetch('https://verve.local/wp-json', {
 				agent: httpsAgent,
 			});
 			if (wpResponse.ok) {
 				const data = await wpResponse.json();
 				// Use the "home" property which contains the absolute URL
-				url = data?.home || 'https://wdsbt.local';
+				url = data?.home || 'https://verve.local';
 				console.log(`Detected site URL: ${url}`);
 			} else {
 				console.warn(
-					'Failed to fetch site URL. Using default: https://wdsbt.local'
+					'Failed to fetch site URL. Using default: https://verve.local'
 				);
-				url = 'https://wdsbt.local';
+				url = 'https://verve.local';
 			}
 		} catch (error) {
 			console.warn(`Error fetching site URL: ${error.message}`);
-			url = 'https://wdsbt.local';
+			url = 'https://verve.local';
 		}
 	}
 

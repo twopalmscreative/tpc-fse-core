@@ -2,10 +2,10 @@
 /**
  * Registers custom block pattern categories for the WDS BT theme.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Registers custom block pattern for the WDS BT theme.
@@ -13,13 +13,13 @@ namespace twopalmscreative\wdsbt;
 function register_custom_block_pattern() {
 
 		register_block_pattern(
-			'wdsbt/pattern-name',
+			'verve/pattern-name',
 			array(
-				'title'         => __( 'Pattern Title', 'wdsbt' ),
+				'title'         => __( 'Pattern Title', 'verve' ),
 				'blockTypes'    => array( 'core/query' ),
 				'templateTypes' => array( 'single-post' ),
 				'postTypes'     => array( '' ),
-				'description'   => _x( 'Block Pattern Name', 'Block pattern description', 'wdsbt' ),
+				'description'   => _x( 'Block Pattern Name', 'Block pattern description', 'verve' ),
 				'content'       => '',
 			)
 		);

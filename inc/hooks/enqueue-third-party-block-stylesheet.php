@@ -3,13 +3,13 @@
  * Enqueue third‑party block override styles.
  *
  * These styles are built into build/css/blocks using a naming convention where the file
- * name is the block name without its namespace. For example, for a block "wdsbt/jctest",
+ * name is the block name without its namespace. For example, for a block "verve/jctest",
  * the function will look for "jctest.css" in the build/css/blocks folder.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Enqueue third‑party block override styles.
@@ -56,7 +56,7 @@ function enqueue_third_party_block_overrides() {
 		$file_name  = end( $parts );
 		$style_file = get_theme_file_path( '/build/css/blocks/' . $file_name . '.css' );
 		if ( file_exists( $style_file ) ) {
-			$handle = 'wdsbt-' . $file_name . '-style';
+			$handle = 'verve-' . $file_name . '-style';
 			wp_enqueue_style(
 				$handle,
 				get_theme_file_uri( '/build/css/blocks/' . $file_name . '.css' ),

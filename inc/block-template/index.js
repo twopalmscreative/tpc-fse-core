@@ -18,7 +18,7 @@ module.exports = {
 		category: 'wds-blocks',
 		dashicon: 'pets',
 		description: 'A custom block created by the create-block for the theme',
-		namespace: 'wdsbt',
+		namespace: 'verve',
 		editorScript: 'file:./index.js',
 		editorStyle: 'file:./index.css',
 		style: 'file:./style.css',

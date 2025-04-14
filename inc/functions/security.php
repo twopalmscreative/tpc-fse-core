@@ -4,10 +4,10 @@
  *
  * Enable or disable certain functionality to harden WordPress.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Remove generator meta tags.

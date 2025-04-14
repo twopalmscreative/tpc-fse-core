@@ -76,7 +76,7 @@
 		 Multiple valid prefixes can be provided as a comma-delimited list. -->
 	<rule ref="WordPress.NamingConventions.PrefixAllGlobals">
 		<properties>
-			<property name="prefixes" type="array" value="twopalmscreative\wdsbt,wds,wdsbt" />
+			<property name="prefixes" type="array" value="twopalmscreative\verve,wds,verve" />
 		</properties>
 	</rule>
 
@@ -84,7 +84,7 @@
 		 Multiple valid text domains can be provided as a comma-delimited list. -->
 	<rule ref="WordPress.WP.I18n">
 		<properties>
-			<property name="text_domain" type="array" value="wdsbt"/>
+			<property name="text_domain" type="array" value="verve"/>
 		</properties>
 	</rule>
 

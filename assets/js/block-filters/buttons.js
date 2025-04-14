@@ -109,7 +109,7 @@ function Edit({
 
 addFilter(
 	'blocks.registerBlockType',
-	'wdsbt/button-sizes',
+	'verve/button-sizes',
 	(settings, name) => {
 		if (name !== 'core/button') {
 			return settings;
@@ -135,7 +135,7 @@ addFilter(
 
 addFilter(
 	'editor.BlockEdit',
-	'wdsbt/button-sizes',
+	'verve/button-sizes',
 	createHigherOrderComponent((BlockEdit) => {
 		return (props) => {
 			if (props.name !== 'core/button') {

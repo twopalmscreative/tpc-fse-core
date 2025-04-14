@@ -2,10 +2,10 @@
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
@@ -20,11 +20,11 @@ function setup() {
 	/**
 	 * Make theme available for translation.
 	 * Translations can be filed in the /languages/ directory.
-	 * If you're building a theme based on wdsbt, refer to the
+	 * If you're building a theme based on verve, refer to the
 	 * README.md file in this theme to find and replace all
-	 * references of wdsbt
+	 * references of verve
 	 */
-	load_theme_textdomain( 'wdsbt', get_template_directory() . '/build/languages' );
+	load_theme_textdomain( 'verve', get_template_directory() . '/build/languages' );
 
 	// Gutenberg support for full-width/wide alignment of supported blocks.
 	add_theme_support( 'align-wide' );

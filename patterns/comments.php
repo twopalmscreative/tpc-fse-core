@@ -1,12 +1,12 @@
 <?php
 /**
  * Title: Comments
- * Slug: wdsbt/comments
+ * Slug: verve/comments
  * Categories: posts
  * Block Types: custom/comments
  * Inserter: false
  *
- * @package wdsbt
+ * @package verve
  */
 
 ?>
@@ -21,7 +21,7 @@
 	<!-- wp:comments -->
 	<div class="wp-block-comments">
 		<!-- wp:heading {"level":2} -->
-		<h2><?php echo esc_html_x( 'Comments', 'Title of comments section', 'wdsbt' ); ?></h2>
+		<h2><?php echo esc_html_x( 'Comments', 'Title of comments section', 'verve' ); ?></h2>
 		<!-- /wp:heading -->
 		<!-- wp:comment-template -->
 			<!-- wp:columns -->

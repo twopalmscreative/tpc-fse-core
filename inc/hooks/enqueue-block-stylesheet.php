@@ -2,10 +2,10 @@
 /**
  * Enqueue custom block styles.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Enqueue custom block stylesheets
@@ -25,7 +25,7 @@ function enqueue_block_stylesheet() {
 	// Enqueue styles from the core block folder.
 	foreach ( glob( get_parent_theme_file_path( '/build/css/blocks/*.css' ) ) as $stylesheet ) {
 		$block_name = basename( $stylesheet, '.css' );
-		$handle     = 'wdsbt-' . $block_name . '-style';
+		$handle     = 'verve-' . $block_name . '-style';
 
 		wp_enqueue_block_style(
 			'core/' . $block_name,

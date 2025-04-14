@@ -2,10 +2,10 @@
 /**
  * Functions to enqueue scripts in the block editor and frontend.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Enqueues the filters.js script in the block editor.

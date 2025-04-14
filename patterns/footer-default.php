@@ -1,18 +1,18 @@
 <?php
 /**
  * Title: Default footer
- * Slug: wdsbt/footer
+ * Slug: verve/footer
  * Categories: footer
  * Block Types: core/template-part/footer
  *
- * @package wdsbt
+ * @package verve
  */
 
 // Determine whether to display site logo or site title.
 $wds_site_info = has_custom_logo() ? '<!-- wp:site-logo {"width":200} /-->' : '<!-- wp:site-title /--><!-- wp:site-tagline /-->';
 
 // Generate the copyright information.
-$wds_copyright_info = esc_html__( 'Copyright &copy; ', 'wdsbt' ) . esc_attr( gmdate( 'Y' ) );
+$wds_copyright_info = esc_html__( 'Copyright &copy; ', 'verve' ) . esc_attr( gmdate( 'Y' ) );
 ?>
 
 <!-- wp:group {"tagName":"footer","metadata":{"name":"Footer"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"className":"alignfull","layout":{"type":"constrained"}} -->
@@ -43,7 +43,7 @@ $wds_copyright_info = esc_html__( 'Copyright &copy; ', 'wdsbt' ) . esc_attr( gmd
 			<!-- /wp:social-links -->
 
 			<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#f78766"}}}},"textColor":"white"} -->
-			<p class="has-white-color has-text-color has-link-color">fse-starter stands for: <em>twopalmscreative Block Theme</em>. It can be found in the <a href="https://github.com/twopalmscreative/fse-starter">fse-starter github repo.</a>&nbsp; The theme is stood up on WDSLab: <a href="https://wdsbt.wdslab.com">https://wdsbt.wdslab.com</a>&nbsp;</p>
+			<p class="has-white-color has-text-color has-link-color">fse-starter stands for: <em>twopalmscreative Block Theme</em>. It can be found in the <a href="https://github.com/twopalmscreative/fse-starter">fse-starter github repo.</a>&nbsp; The theme is stood up on WDSLab: <a href="https://verve.wdslab.com">https://verve.wdslab.com</a>&nbsp;</p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#f78766"}}}},"textColor":"white"} -->
 			<p class="has-white-color has-text-color has-link-color"><?php echo wp_kses_post( $wds_copyright_info ); ?></p>

@@ -2,10 +2,10 @@
 /**
  * Restrict block patterns to theme-specific patterns only.
  *
- * @package wdsbt
+ * @package verve
  */
 
-namespace twopalmscreative\wdsbt;
+namespace twopalmscreative\verve;
 
 /**
  * Restrict patterns from the Dotcom library by overriding the patterns source site.
