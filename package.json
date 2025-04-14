@@ -1,5 +1,5 @@
 {
-  "name": "fse-starter",
+  "name": "verve",
   "version": "1.2.0",
   "private": true,
   "description": "A starter block theme from twopalmscreative.",
@@ -9,13 +9,13 @@
     "WordPress",
     "Theme"
   ],
-  "homepage": "https://github.com/twopalmscreative/fse-starter/#readme",
+  "homepage": "https://github.com/twopalmscreative/verve/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twopalmscreative/fse-starter.git"
+    "url": "git+https://github.com/twopalmscreative/verve.git"
   },
   "bugs": {
-    "url": "https://github.com/twopalmscreative/fse-starter/issues"
+    "url": "https://github.com/twopalmscreative/verve/issues"
   },
   "engines": {
     "node": ">=20",
