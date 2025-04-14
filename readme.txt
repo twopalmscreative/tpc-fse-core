@@ -1,5 +1,5 @@
 === WDS BT ===
-Contributors: webdevstudios, khleomix, bgardner
+Contributors: twopalmscreative, khleomix, bgardner
 Requires at least: 6.4
 Tested up to: 6.4
 Requires PHP: 8.2
@@ -21,7 +21,7 @@ the ideal canvas for your creative expression.
 
 == Copyright ==
 
-The WDS BT Theme, (C) 2023 WebDevStudios
+The WDS BT Theme, (C) 2023 twopalmscreative
 The WDS BT Theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify

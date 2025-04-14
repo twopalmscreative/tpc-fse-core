@@ -5,7 +5,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Register block variations.

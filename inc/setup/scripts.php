@@ -5,12 +5,12 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Enqueue scripts and styles.
  *
- * @author WebDevStudios
+ * @author twopalmscreative
  */
 function scripts() {
 	$asset_file_path = get_template_directory() . '/build/js/index.asset.php';

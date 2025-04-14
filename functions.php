@@ -5,20 +5,20 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package wdsbt
- * @author  WebDevStudios
+ * @author  twopalmscreative
  * @license GNU General Public License v3
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 // Define a global path and url.
-define( 'WebDevStudios\wdsbt\ROOT_PATH', trailingslashit( get_template_directory() ) );
-define( 'WebDevStudios\wdsbt\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
+define( 'twopalmscreative\wdsbt\ROOT_PATH', trailingslashit( get_template_directory() ) );
+define( 'twopalmscreative\wdsbt\ROOT_URL', trailingslashit( get_template_directory_uri() ) );
 
 /**
  * Get all the include files for the theme.
  *
- * @author WebDevStudios
+ * @author twopalmscreative
  */
 function include_inc_files() {
 	$files = [

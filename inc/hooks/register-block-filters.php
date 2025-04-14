@@ -5,7 +5,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Enqueues the filters.js script in the block editor.

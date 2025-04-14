@@ -38,7 +38,7 @@ Verve includes built-in demo content within the blocks themselves, so you’ll s
 - **No bloat, no builder plugins**: just clean code and core WordPress blocks  
 
 ## Tech Notes (for the curious)
-This theme was originally based on WDS-BT by WebDevStudios, and I’ve tailored it for non-technical users who still want a high-performing site. All the developer tooling (like build scripts, npm, composer, etc.) has been removed from this version, so you don’t need to worry about anything behind the scenes.
+This theme was originally based on WDS-BT by twopalmscreative, and I’ve tailored it for non-technical users who still want a high-performing site. All the developer tooling (like build scripts, npm, composer, etc.) has been removed from this version, so you don’t need to worry about anything behind the scenes.
 
 If you’re a developer and want the full build system for advanced customizations, feel free to reach out — I’m happy to provide access to the developer version.
 

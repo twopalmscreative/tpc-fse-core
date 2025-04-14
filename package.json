@@ -2,20 +2,20 @@
   "name": "wds-bt",
   "version": "1.2.0",
   "private": true,
-  "description": "A starter block theme from WebDevStudios.",
-  "author": "WebDevStudios <contact@webdevstudios.com>",
+  "description": "A starter block theme from twopalmscreative.",
+  "author": "twopalmscreative <contact@twopalmscreative.com>",
   "license": "GPL-2.0-or-later",
   "keywords": [
     "WordPress",
     "Theme"
   ],
-  "homepage": "https://github.com/WebDevStudios/wds-bt/#readme",
+  "homepage": "https://github.com/twopalmscreative/wds-bt/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebDevStudios/wds-bt.git"
+    "url": "git+https://github.com/twopalmscreative/wds-bt.git"
   },
   "bugs": {
-    "url": "https://github.com/WebDevStudios/wds-bt/issues"
+    "url": "https://github.com/twopalmscreative/wds-bt/issues"
   },
   "engines": {
     "node": ">=20",

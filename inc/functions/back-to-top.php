@@ -9,7 +9,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Outputs the "Back to Top" button HTML, JavaScript, and CSS.

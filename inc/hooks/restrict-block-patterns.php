@@ -5,7 +5,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Restrict patterns from the Dotcom library by overriding the patterns source site.

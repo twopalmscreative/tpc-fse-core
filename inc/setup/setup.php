@@ -5,7 +5,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
@@ -14,7 +14,7 @@ namespace WebDevStudios\wdsbt;
  * runs before the init hook. The init hook is too late for some features, such
  * as indicating support for post thumbnails.
  *
- * @author WebDevStudios
+ * @author twopalmscreative
  */
 function setup() {
 	/**

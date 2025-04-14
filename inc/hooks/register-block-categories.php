@@ -5,14 +5,14 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Register_wds_category
  *
  * @param array $categories block categories.
  * @return array $categories block categories.
- * @author WebDevStudios
+ * @author twopalmscreative
  */
 function register_wds_category( $categories ) {
 	$custom_block_category = [

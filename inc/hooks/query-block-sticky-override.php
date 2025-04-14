@@ -7,7 +7,7 @@
  * @package wdsbt
  */
 
-namespace WebDevStudios\wdsbt;
+namespace twopalmscreative\wdsbt;
 
 /**
  * Adds a custom query variable to indicate whether sticky posts should be ignored.

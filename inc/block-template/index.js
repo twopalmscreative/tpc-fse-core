@@ -14,7 +14,7 @@ module.exports = {
 				requiresAtLeast: isInteractiveVariant ? '6.5' : '6.1',
 			};
 		},
-		author: 'WebDevStudios',
+		author: 'twopalmscreative',
 		category: 'wds-blocks',
 		dashicon: 'pets',
 		description: 'A custom block created by the create-block for the theme',

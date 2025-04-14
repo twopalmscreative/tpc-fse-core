@@ -1,13 +1,13 @@
 {
-  "name": "webdevstudios/wds-bt",
+  "name": "twopalmscreative/wds-bt",
   "version": "1.1.0",
-  "description": "A FSE/Gutenberg block starter theme from WebDevStudios.",
+  "description": "A FSE/Gutenberg block starter theme from twopalmscreative.",
   "type": "wordpress-theme",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "WebDevStudios",
-      "email": "contact@webdevstudios.com"
+      "name": "twopalmscreative",
+      "email": "contact@twopalmscreative.com"
     }
   ],
   "config": {
