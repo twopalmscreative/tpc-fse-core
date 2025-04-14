@@ -43,7 +43,7 @@ $wds_copyright_info = esc_html__( 'Copyright &copy; ', 'wdsbt' ) . esc_attr( gmd
 			<!-- /wp:social-links -->
 
 			<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#f78766"}}}},"textColor":"white"} -->
-			<p class="has-white-color has-text-color has-link-color">WDS-BT stands for: <em>twopalmscreative Block Theme</em>. It can be found in the <a href="https://github.com/twopalmscreative/wds-bt">wds-bt github repo.</a>&nbsp; The theme is stood up on WDSLab: <a href="https://wdsbt.wdslab.com">https://wdsbt.wdslab.com</a>&nbsp;</p>
+			<p class="has-white-color has-text-color has-link-color">fse-starter stands for: <em>twopalmscreative Block Theme</em>. It can be found in the <a href="https://github.com/twopalmscreative/fse-starter">fse-starter github repo.</a>&nbsp; The theme is stood up on WDSLab: <a href="https://wdsbt.wdslab.com">https://wdsbt.wdslab.com</a>&nbsp;</p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#f78766"}}}},"textColor":"white"} -->
 			<p class="has-white-color has-text-color has-link-color"><?php echo wp_kses_post( $wds_copyright_info ); ?></p>

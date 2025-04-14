@@ -1,5 +1,5 @@
 {
-  "name": "wds-bt",
+  "name": "fse-starter",
   "version": "1.2.0",
   "private": true,
   "description": "A starter block theme from twopalmscreative.",
@@ -9,13 +9,13 @@
     "WordPress",
     "Theme"
   ],
-  "homepage": "https://github.com/twopalmscreative/wds-bt/#readme",
+  "homepage": "https://github.com/twopalmscreative/fse-starter/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twopalmscreative/wds-bt.git"
+    "url": "git+https://github.com/twopalmscreative/fse-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/twopalmscreative/wds-bt/issues"
+    "url": "https://github.com/twopalmscreative/fse-starter/issues"
   },
   "engines": {
     "node": ">=20",
