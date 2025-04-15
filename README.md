@@ -58,7 +58,7 @@ git remote add origin https://github.com/twopalmscreative/your-theme-name.git
 git push -u origin main 
 ```
 
-## To pull in base updates later:
+### To pull in base updates later:
 
 ```bash
 git remote add base https://github.com/twopalmscreative/tpc-fse-core.git
@@ -88,6 +88,7 @@ npm run a11y
 ## 👋 Maintained by
 
 Ashley Stanley
+---
 [Two Palms Creative](https://twopalmscreative.co)
+---
 [Instagram → @twopalmscreative.co](https://instagram.com/twopalmscreative.co)
-
