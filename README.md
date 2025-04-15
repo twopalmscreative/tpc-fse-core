@@ -88,7 +88,7 @@ npm run a11y
 ## 👋 Maintained by
 
 Ashley Stanley
----
+<br>
 [Two Palms Creative](https://twopalmscreative.co)
----
+<br>
 [Instagram → @twopalmscreative.co](https://instagram.com/twopalmscreative.co)
